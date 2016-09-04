@@ -145,4 +145,7 @@
     <Folder Include="Extension\UniDic\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Target Name="AfterBuild">
+    <Copy SourceFiles="$(TargetPath)" DestinationFolder="$(SolutionDir)..\bin\45\" />
+  </Target>
 </Project>

@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibNMeCabTest", "LibNMeCabT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibNMeCab35", "LibNMeCab35\LibNMeCab35.csproj", "{4FFE4221-2F41-446E-BE59-D9CFCDF91AC6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibNMeCab45Mono", "LibNMeCab45Mono\LibNMeCab45Mono.csproj", "{13672014-AE16-4625-8EAD-4D85BD70844D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,6 +99,18 @@ Global
 		{4FFE4221-2F41-446E-BE59-D9CFCDF91AC6}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{4FFE4221-2F41-446E-BE59-D9CFCDF91AC6}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{4FFE4221-2F41-446E-BE59-D9CFCDF91AC6}.Release|x86.ActiveCfg = Release|Any CPU
+		{13672014-AE16-4625-8EAD-4D85BD70844D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13672014-AE16-4625-8EAD-4D85BD70844D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13672014-AE16-4625-8EAD-4D85BD70844D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{13672014-AE16-4625-8EAD-4D85BD70844D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{13672014-AE16-4625-8EAD-4D85BD70844D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{13672014-AE16-4625-8EAD-4D85BD70844D}.Debug|x86.Build.0 = Debug|Any CPU
+		{13672014-AE16-4625-8EAD-4D85BD70844D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13672014-AE16-4625-8EAD-4D85BD70844D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13672014-AE16-4625-8EAD-4D85BD70844D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{13672014-AE16-4625-8EAD-4D85BD70844D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{13672014-AE16-4625-8EAD-4D85BD70844D}.Release|x86.ActiveCfg = Release|Any CPU
+		{13672014-AE16-4625-8EAD-4D85BD70844D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
